@@ -1,0 +1,6 @@
+body { font-family: sans-serif; display: flex; justify-content: center; padding: 20px; }
+.container { border: 1px solid #ccc; padding: 20px; border-radius: 8px; width: 300px; text-align: center; }
+input { padding: 8px; margin: 5px; width: 90%; }
+button { padding: 8px 15px; cursor: pointer; }
+#output { margin-top: 15px; padding: 10px; border: 1px dashed #333; min-height: 20px; }
+.focused { border: 2px solid blue; background-color: #f0f8ff; }
